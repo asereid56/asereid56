@@ -7,9 +7,8 @@ Welcome to my vibrant coding space! 🚀 I'm enthusiastic about mobile developme
 
 ## Skills 🛠️
 - **Languages:** C, C++, Java, Kotlin, Swift, Objective-C
-- **Web Technologies:** HTML, CSS, JavaScript, jQuery, Servlets, JSON
+- **Concepts:** OOP, MVC, MVP, MVVM, MVVM-C, VIPER
 - **Data Structures & Algorithms 🧠**
-- **Database:** MySQL 🐬
 
 ## Projects 🚧
 Explore some of my creative projects on [GitHub](https://github.com/asereid56). Contributions and feedback are always welcome!
